@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@300;400;500;700&family=Notable&family=Open+Sans:wght@300&family=Supermercado+One&display=swap");
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+}
+html{
+    font-size:62.5%;
+
+}
+body{
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    font-family: "Montserrat", sans-serif;
+}
+h1{
+    color:#fff;
+    font-size:3rem;
+    font-weight:500;
+}
+button{
+    padding:0.5em 1em;
+    border-radius:10px;
+    border:none;
+    background:rgb(44,55,63);
+    color:white;
+    margin:10px 0;
+    font-size:3rem;
+    transition:all 0.5s ease-in-out;
+    font-weight:700;
+}
+button:hover {
+    background:rgb(104 141 167);
+  }
