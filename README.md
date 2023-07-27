@@ -5,7 +5,7 @@
  
     🤩Here you can see the output [Random Color Generator](https://luminous-axolotl-6d8d0d.netlify.app/ "javascript")
   
-2. Todo List Application - To make this project you know Dom tree traversing , events in javascript like how to add events on elements.
+2. Todo List Application - To make this project you ahould know how to traverse the DOM tree , events in javascript like how to add events on elements.
    - Important concepts like :-
    - Event object
    - Event Bubbling
