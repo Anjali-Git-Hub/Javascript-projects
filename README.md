@@ -14,6 +14,7 @@
   
    - These concepts make your work more easier instead of adding event listener to every element, just add the event on the parent element and call an event on a particular target using the .target property of the event object.
    - Event object - for example i added a click event on the button , the moment i clicked on the button , web apis of browser will send the callback function of the click event and event object( object containing the information of event in key-value pairs ) in the callback queue. Now event loop will check if the callstack is empty or not if it is empty  then it will take the callback function with event object and push it into the callstack for execution .
+   -  In this project I used all these concepts that I mentioned above👆.  
   
      🤩Here is the output  [Todo list application](https://delightful-genie-d65604.netlify.app/ "javascript")
   
