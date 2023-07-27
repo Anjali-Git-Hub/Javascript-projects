@@ -1,0 +1,180 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@300;400;500;700&family=Notable&family=Open+Sans:wght@300&family=Supermercado+One&display=swap");
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+    font-size:62.5%;
+}
+body{
+    font-family: "Montserrat", sans-serif;
+}
+header{
+    min-height:100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("./Images/7.jpg");
+   
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    background-position:top;
+    position:relative;
+}
+.container{
+    max-width:1200px;
+    margin:auto;
+    width:90%;
+}
+nav{
+    min-height:10vh;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+ 
+}
+ h1{
+    color:white;
+    font-size:3rem;
+    font-weight:700;
+    text-transform:capitalize;
+}
+nav ul{
+    width:50%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+nav ul li{
+    list-style:none;
+    margin:0 10px;
+
+}
+nav ul li a{
+    text-decoration:none;
+    color:white;
+    font-size:2rem;
+    font-weight:500;
+    text-transform:capitalize;
+}
+header .content{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    text-align:center;
+}
+.btn{
+    display:inline-block;
+    background:#fff;
+    color:#000;
+    text-decoration:none;
+    padding:10px 20px;
+    margin:1.5rem 0;
+    font-size:1.5rem;
+    font-weight:700;
+    border:none;
+    text-transform:capitalize;
+}
+
+/*#################  Todo section ################ */
+#todo{
+    min-height:100vh;
+}
+#todo h2{
+    margin-top:4rem;
+    font-size:3rem;
+    text-align:center;
+}
+#todo .todo-form{
+    min-height:7vh;
+  margin:10px auto;
+    display:flex;
+    justify-content:space-between;
+}
+.todo-form input[type="text"]{
+    min-height:100%;
+    min-width:78%;
+    padding:0 10px;
+    font-size:1.8rem;
+    font-weight:500;
+    outline:none;
+}
+.todo-form input[type="submit"]{
+    min-height:100%;
+    min-width:20%;
+    font-size:1.5rem;
+    font-weight:700;
+    background:rgb(44,55,63);
+    color:white;
+    text-transform:capitalize;
+    border:none;
+    
+}
+.todo-list li{
+    width:100%;
+    min-height:7.5vh;
+    background:rgb(44,55,63);
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:0 0.5em;
+    color:white;
+    font-size:2rem;
+    margin-bottom:0.5em;
+    
+}
+.todo-list li{
+    list-style:none;
+}
+
+.btns .btnn{
+    padding:0.5em 1em;
+    margin:0 3px;
+    font-weight:bold;
+}
+
+
+/* ################### sign-up form ###################  */
+/* 
+.forms-ele label,
+.forms-ele input
+{
+    display:block;
+}
+.forms-ele label{
+    font-size:1.2rem;
+}
+.forms-ele{
+    margin-top:15px;
+    /* text-align:center; */
+}
+.forms-ele input{
+    width:100%;
+    padding:0.5rem;
+}
+#sign-up{
+    background:rgb(240,240,240);
+    border-radius:10px;
+    margin:3rem auto;
+    padding:1rem 0;
+}
+.form-signup{
+    max-width:600px;
+    width:95%;
+    margin: auto;
+}
+#sign-up h2{
+    font-size:2.5rem;
+    text-align:center;
+}
+#sign-up textarea{
+    width:100%;
+}
+#sign-up button{
+    background:rgb(44,55,63);
+    color:white;
+    margin:1rem auto;
+    display:block;
+} */
