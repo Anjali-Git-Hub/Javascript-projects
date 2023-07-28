@@ -25,6 +25,8 @@
    - I added click event listner on the button and remember one thing that this setInterval returns an ID , i simply uses this ID .
    - When the user clicks on the button , the click event fires and clears the setInterval ->clearInterval(id);
      
+   -  🤩Here is the output  [Stop Changing bgColor](https://ubiquitous-sawine-3e00ef.netlify.app/ "javascript")
+     
      
 [recording.webm](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/13986c7e-0f6e-423a-9f46-ed4e4723569f)
 
