@@ -17,7 +17,16 @@
    -  In this project I used all these concepts that I mentioned above👆.  
   
      🤩Here is the output  [Todo list application](https://delightful-genie-d65604.netlify.app/ "javascript")
-  
+
+3. You can easily make this small project by using the knowledge of asyn Js.
+   - Well js is a synchronous programming language and single threaded . Actually the asyn features in javscript is provided by the browser like setTimeout,setInterval,promises.
+   - In this project i used setInterval method for changing the background color after every one second .
+   - setInterval takes 2 arguments ,first is call back function and second one is time .
+   - I added click event listner on the button and remember one thing that this setInterval returns an ID , i simply uses this ID .
+   - When the user clicks on the button , the click event fires and clears the setInterval ->clearInterval(id);
+     
+     
+[recording.webm](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/13986c7e-0f6e-423a-9f46-ed4e4723569f)
 
   
 
