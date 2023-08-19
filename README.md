@@ -33,7 +33,7 @@
   
 4. Age Calculator app
         - This is a frontend mentor challenge . Frontend mentor challenge help you to improve your coding skills by building realistic projects .
-        - The challenge
+        - The challenge - 
 
           Users should be able to:
          - View an age in years, months, and days after submitting a valid date through the form
@@ -53,3 +53,22 @@
      - Frontend Mentor - [Anjali-Git-Hub](https://www.frontendmentor.io/solutions/responsive-age-calculator-app-Ru0Xe4xDB-)
      - Twitter - [Yashika](https://twitter.com/yashika_22_)
      - linkedIn - [Anjali.](https://www.linkedin.com/in/anjali-0352b1248/)
+
+5. Advice Generator App -The perfect project if you're learning how to interact with 3rd-party APIs. This challenge uses the Advice Slip API to generate random quotes of advice.
+
+   - This is a frontend mentor challenge . Frontend mentor challenge help you to improve your coding skills by building realistic projects .
+   - The challenge
+
+          Users should be able to:
+         - View the optimal layout for the app depending on their device's screen size
+         - See hover states for all interactive elements on the page
+         - Generate a new piece of advice by clicking the dice icon
+
+### Screenshot
+![desktop-design](https://github.com/Anjali-Git-Hub/Advice-Generator-App/assets/122084921/99093b8b-269a-4b68-aace-c7c63899fa43)
+
+### Links
+- Live Demo - [Advice Generator App](https://anjali-git-hub.github.io/Advice-Generator-App/)
+- Frontend Mentor - [Anjali-Git-Hub](https://www.frontendmentor.io/solutions/advice-generator-app-OjHf4ihkAW)
+- Twitter - [Yashika](https://twitter.com/yashika_22_)
+- linkedIn - [Anjali.](https://www.linkedin.com/in/anjali-0352b1248/)
