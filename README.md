@@ -72,3 +72,27 @@
 - Frontend Mentor - [Anjali-Git-Hub](https://www.frontendmentor.io/solutions/advice-generator-app-OjHf4ihkAW)
 - Twitter - [Yashika](https://twitter.com/yashika_22_)
 - linkedIn - [Anjali.](https://www.linkedin.com/in/anjali-0352b1248/)
+
+6. Calculator App - This calculator app will be a great test of your CSS and JS skills especially. If you're wanting to practice using Grid.
+   - This is a frontend mentor challenge . Frontend mentor challenge help you to improve your coding skills by building realistic projects .
+   - The challenge
+
+           Users should be able to:
+         - See the size of the elements adjust based on their device's screen size
+          - Perform mathmatical operations like addition, subtraction, multiplication, and division
+          - Adjust the color theme based on their preference
+          - **Bonus**: Have their initial theme preference checked using `prefers-color-scheme` and have any additional changes saved in the                     browser
+     
+### Screenshot
+![active-states-theme-1](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/eadba8b7-3695-49a8-b16a-807ac92b2f6f)
+![mobile-design-theme-1](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/15e2ee4c-3a67-4e47-9d67-2833a51f5c9e)
+![mobile-design-theme-2](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/5f89362a-a50a-4000-b770-7b4a196b39f9)
+![mobile-design-theme-3](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/35614f16-5745-44f1-b0ac-b063bbc61780)
+![desktop-design-theme-3](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/b74547e5-1103-4a5d-9c1e-84ee10e23199)
+
+### Links
+- Live Demo - [Calculator App](https://anjali-git-hub.github.io/Calculator-App/)
+- sourcecode - [sourcecode](https://github.com/Anjali-Git-Hub/Calculator-App.git)
+- Frontend Mentor - [Anjali-Git-Hub](https://www.frontendmentor.io/solutions/responsive-calculator-app-rs_t8FwcAh)
+- Twitter - [Yashika](https://twitter.com/yashika_22_)
+- linkedIn - [Anjali.](https://www.linkedin.com/in/anjali-0352b1248/)
