@@ -85,10 +85,10 @@
      
 ### Screenshot
 ![active-states-theme-1](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/eadba8b7-3695-49a8-b16a-807ac92b2f6f)
+![desktop-design-theme-3](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/b74547e5-1103-4a5d-9c1e-84ee10e23199)
 ![mobile-design-theme-1](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/15e2ee4c-3a67-4e47-9d67-2833a51f5c9e)
 ![mobile-design-theme-2](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/5f89362a-a50a-4000-b770-7b4a196b39f9)
 ![mobile-design-theme-3](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/35614f16-5745-44f1-b0ac-b063bbc61780)
-![desktop-design-theme-3](https://github.com/Anjali-Git-Hub/Javascript-projects/assets/122084921/b74547e5-1103-4a5d-9c1e-84ee10e23199)
 
 ### Links
 - Live Demo - [Calculator App](https://anjali-git-hub.github.io/Calculator-App/)
